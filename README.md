@@ -26,7 +26,7 @@ To get a local copy up and running, follow these steps:
 1. Ensure you have Unreal Engine installed on your system
 2. Clone the repository:
    ```
-   git clone https://github.com/yourusername/unlimited-runner.git
+   git clone https://github.com/astroDev18/unlimited-runner.git
    ```
 3. Open the project in Unreal Engine
 4. Build and run the game
@@ -53,8 +53,6 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
 Project Link: [https://github.com/yourusername/unlimited-runner](https://github.com/yourusername/unlimited-runner)
 
